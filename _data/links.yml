@@ -1,16 +1,13 @@
-- category: Where'd you see or hear us?
+- category: Links
   items:
-    - title: Click here if you heard us on Q102.1!
-      url: https://www.sigwoarms.com
-    - title: Click here if you saw one of our billboards!
-      url: https://www.sigwo.tech/r/X7d
-
-- category: Websites
-  items:
-    - title: Sigwo - Home of the Zero, Mk2, and Hyena!
-      url: https://www.sigwoarms.com/r/ToV
-    - title: Sigwo Industries - For your coating and machining needs!
-      url: https://www.sigwoindustries.com/r/oI6
+    - title: YouTube
+      url: https://www.youtube.com/@Burdwagon
+    - title: Facebook
+      url: https://www.facebook.com/james.willet.12
+    - title: Instagram
+      url: https://www.instagram.com/burdwagon
+    - title: Patreon
+      url: https://www.patreon.com/BURDWAGON?utm_campaign=creatorshare_creator
 
 #- category: Flagship Products
 #  items:
@@ -31,7 +28,7 @@
 #    - title: Silencer Shop - Sigwo Arms
 #      url: https://silencershop.com/sigwoarms
 
-- category: Google Reviews
-  items:
-    - title: Sigwo
-      url: https://g.page/r/CXaPRMBegwViEBM/review
+#- category: Google Reviews
+#  items:
+#    - title: Sigwo
+#      url: https://g.page/r/CXaPRMBegwViEBM/review
