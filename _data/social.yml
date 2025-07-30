@@ -8,10 +8,10 @@
   icon: ri:instagram-fill
   color: '#E4405F'
   
-#- name: x
-#  url: https://x.com/sigwoarms
-#  icon: ri:twitter-x-fill
-#  color: '#1D9BF0'
+- name: tiktok
+  url: https://www.tiktok.com/@burdwagon
+  icon: ri:tiktok-fill
+  color: '#1D9BF0'
 
 - name: youtube
   url: https://www.youtube.com/@Burdwagon
